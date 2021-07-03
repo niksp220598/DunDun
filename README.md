@@ -41,3 +41,10 @@ A basic finance / banking system created using HTML, CSS, JS and MongoDB
 
 ### MONGODB
 - https://docs.mongodb.com/manual/tutorial/getting-started/ Official Documentation
+
+### Tools
+- Notion - for task management, planning and sharing of files
+- VSCode Extension - Live share
+- VSCode Extension - Live sass compiler
+- NodeJS
+- Git
