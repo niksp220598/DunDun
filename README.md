@@ -4,6 +4,8 @@ A basic finance / banking system created using HTML, CSS, JS and MongoDB
 ## Learning Resources for this project
 ### GITHUB
 - https://lab.github.com/githubtraining/introduction-to-github Git Introduction
+- https://docs.github.com/en/pages/getting-started-with-github-pages Github Pages
+- https://www.youtube.com/watch?v=USjZcfj8yxE
 - https://training.github.com/downloads/github-git-cheat-sheet/ Git Cheatsheet
 - https://lab.github.com/githubtraining/communicating-using-markdown Git Markdown
 
