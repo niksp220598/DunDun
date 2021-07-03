@@ -12,7 +12,7 @@ A basic finance / banking system created using HTML, CSS, JS and MongoDB
 - https://www.w3schools.com/html/ W3 Tutorials - Element wise
 
 ### CSS
-- CSS in 44 Minutes PDF - Basics of the CSS
+- https://github.com/pseudoslayr/DunDun/blob/main/CSS.pdf CSS in 44 Minutes PDF - Basics of the CSS
 
 ### SASS 
 - https://sass-lang.com/guide Sass overview
@@ -29,7 +29,7 @@ A basic finance / banking system created using HTML, CSS, JS and MongoDB
 ### BULMA UI
 - https://bulma.io/documentation/ Bulma Documentation
 - https://bulma.io/videos/ Bulma Video Tutorials (Official)
-- Creating Interfaces with Bulma UI PDF - Overall working and usage of Bulma
+- https://github.com/pseudoslayr/DunDun/blob/main/Bulma.pdf Creating Interfaces with Bulma UI PDF - Overall working and usage of Bulma
 
 ### DOM
 - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction DOM Introduction
