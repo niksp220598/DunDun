@@ -31,7 +31,7 @@ body {
 
 .username {
     font-weight: 500;
-    margin: 0 1.75rem;
+    margin: 0 1.75em;
 }
 
 .navbar {
@@ -44,6 +44,7 @@ body {
     border-width: 0;
     border-radius: 0;
     border-bottom: 1px solid #80808063;
+
 }
 
 .input:hover {
@@ -68,15 +69,15 @@ body {
 }
 
 .brand-icon {
-    font-size: 2rem;
-    margin-right: 1.5rem;
+    font-size: 1.5em;
+    margin-right: 1.5em;
     color: #2cbbbb;
 }
 
 .icon-button {
     border: none;
     background-color: #0000;
-    margin: 0 1.25rem;
+    margin: 0 1.25em;
 
 }
 
@@ -93,13 +94,13 @@ body {
 }
 
 .custom-icon {
-    font-size: 1.35rem;
+    font-size: 1.35em;
     color: #555555;
 }
 
 @media only screen and (max-width: 1024px) {
     .avatar-container {
-        padding: 0 1.75rem;
+        padding: 0 1.75em;
         justify-content: center;
     }
 
@@ -107,14 +108,14 @@ body {
         align-self: center;
         height: 48px;
         width: 48px;
-        margin-right: .74rem;
+        margin-right: .74em;
 
     }
     
     .navbar-burger:hover {
         background-color: #0001;
         border-radius: 100%;
-        margin-right: .75rem;
+        margin-right: .75em;
         min-height: 48px;
         min-width: 48px;
     }
